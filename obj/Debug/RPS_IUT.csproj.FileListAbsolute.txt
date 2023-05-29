@@ -1,0 +1,11 @@
+C:\Users\HP\Desktop\Coding in C#\RPS_IUT\bin\Debug\RPS_IUT.exe.config
+C:\Users\HP\Desktop\Coding in C#\RPS_IUT\bin\Debug\RPS_IUT.exe
+C:\Users\HP\Desktop\Coding in C#\RPS_IUT\bin\Debug\RPS_IUT.pdb
+C:\Users\HP\Desktop\Coding in C#\RPS_IUT\obj\Debug\RPS_IUT.csproj.AssemblyReference.cache
+C:\Users\HP\Desktop\Coding in C#\RPS_IUT\obj\Debug\RPS_IUT.csproj.SuggestedBindingRedirects.cache
+C:\Users\HP\Desktop\Coding in C#\RPS_IUT\obj\Debug\RPS_IUT.Form1.resources
+C:\Users\HP\Desktop\Coding in C#\RPS_IUT\obj\Debug\RPS_IUT.Properties.Resources.resources
+C:\Users\HP\Desktop\Coding in C#\RPS_IUT\obj\Debug\RPS_IUT.csproj.GenerateResource.cache
+C:\Users\HP\Desktop\Coding in C#\RPS_IUT\obj\Debug\RPS_IUT.csproj.CoreCompileInputs.cache
+C:\Users\HP\Desktop\Coding in C#\RPS_IUT\obj\Debug\RPS_IUT.exe
+C:\Users\HP\Desktop\Coding in C#\RPS_IUT\obj\Debug\RPS_IUT.pdb
